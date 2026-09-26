@@ -1,7 +1,7 @@
-# Grant Elementary meals → Hearth calendar
+# Sunset meals → Hearth calendar
 
-Turns the Petaluma City Schools breakfast and lunch menus
-([menus.healthepro.com](https://menus.healthepro.com/organizations/472/sites/4063/menus/129804))
+Turns the school district breakfast and lunch menus
+([menus.healthepro.com](https://menus.healthepro.com/organizations/1265/sites/12591/menus/125549))
 into a subscribable calendar feed (`.ics`) for the Hearth Display, Google Calendar, Apple Calendar, or Outlook.
 
 Each school day gets an all-day breakfast event and an all-day lunch event, for example:
@@ -17,7 +17,7 @@ Mon Oct 12  all day      🏠 No School Meals: Professional Development Day
 ## How it works
 
 1. `school_menu_sync.py` reads the public JSON API behind the menu site (no HTML scraping) and writes
-   `docs/grant-elementary-meals.ics`. It finds menus by name ("Elementary Breakfast", "Elementary Lunch") and
+   `docs/school-meals.ics`. It finds menus by name ("Breakfast Menu", "Lunch Menu") and
    takes the newest match, so it keeps working when next school year's menu is published.
 2. A GitHub Actions workflow runs it every morning and commits the file only when the menu changed.
 3. GitHub Pages serves `docs/`, giving the feed a stable URL that the calendar subscribes to.
@@ -28,7 +28,7 @@ Needs Python 3.9+ and nothing else.
 
 ```bash
 python3 school_menu_sync.py --preview   # print what the calendar will contain
-python3 school_menu_sync.py             # write docs/grant-elementary-meals.ics
+python3 school_menu_sync.py             # write docs/school-meals.ics
 python3 -m unittest discover tests      # offline tests
 ```
 
@@ -37,7 +37,7 @@ python3 -m unittest discover tests      # offline tests
 1. Create a **public** GitHub repo and push this project to `main`.
 2. Repo **Settings → Pages**: Source "Deploy from a branch", branch `main`, folder `/docs`.
 3. Repo **Settings → Actions → General → Workflow permissions**: "Read and write permissions".
-4. The feed URL will be `https://<your-username>.github.io/<repo-name>/grant-elementary-meals.ics`.
+4. The feed URL will be `https://<your-username>.github.io/<repo-name>/school-meals.ics`.
 
 ## Add it to Hearth
 

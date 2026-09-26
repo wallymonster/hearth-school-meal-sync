@@ -1,0 +1,1079 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//school-meal-sync//Health-e Pro menus//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sunset Meals
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-09-01-breakfast@school-meal-sync
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🍞 Breakfast: Banana Bread Slice or Assorted General Mills Cereal
+  Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Banana Bread Slice or Assorted General Mills Cereal 
+ Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\, 
+ Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-01-lunch@school-meal-sync
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🍔 Lunch: Cheese Please Burger
+DESCRIPTION:Lunch: Cheese Please Burger\nVegetables: Ore-Ida Tater Tots\, B
+ ush's Baked Vegetarian Beans\nFruit: Mixed Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-02-breakfast@school-meal-sync
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🥣 Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bow
+ ls or Benefit Bars
+DESCRIPTION:Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bowl
+ s or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\, Fres
+ h Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-02-lunch@school-meal-sync
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🍽️ Lunch: The Maxx Cheese Sticks
+DESCRIPTION:Lunch: The Maxx Cheese Sticks\nVegetables: Steamed Broccoli\, R
+ ed Gold Marinara Sauce Dipping Cup\nFruit: Fresh Orange
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-03-breakfast@school-meal-sync
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-03-lunch@school-meal-sync
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🍗 Lunch: Crispy Chicken Nuggets
+DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Golden
+  Corn Kernels\nFruit: Diced Peaches\nGrains: Triple Chocolate Filled Cooki
+ e
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-04-no-school@school-meal-sync
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🏠 No School Meals: Labor Day Weekend
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-07-no-school@school-meal-sync
+DTSTAMP:20260907T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🏠 No School Meals: Labor Day Weekend
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-breakfast@school-meal-sync
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🍞 Breakfast: Banana Bread Slice or Assorted General Mills Cereal
+  Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Banana Bread Slice or Assorted General Mills Cereal 
+ Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\, 
+ Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-08-lunch@school-meal-sync
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🌮 Lunch: Cheesy Beef Nachos
+DESCRIPTION:Lunch: Cheesy Beef Nachos\nVegetables: Red Gold Salsa Cup\, Bus
+ h's Taco Fiesta Black Beans\, Golden Corn Kernels\nFruit: Diced Peaches Cu
+ p\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-breakfast@school-meal-sync
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🥣 Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bow
+ ls or Benefit Bars
+DESCRIPTION:Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bowl
+ s or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\, Fres
+ h Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-09-lunch@school-meal-sync
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🍕 Lunch: Cheesy French Bread Pizza
+DESCRIPTION:Lunch: Cheesy French Bread Pizza\nVegetables: Steamed Broccoli\
+ , Red Gold Marinara Sauce Dipping Cup\nFruit: Sidekicks Blue Raspberry Lem
+ on Frozen Juice Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-breakfast@school-meal-sync
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-10-lunch@school-meal-sync
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🍗 Lunch: Crispy Chicken Nuggets
+DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Garden
+  Fresh Salad\nFruit: Sweet Red Apple Slices\, Assorted Seasonal Fresh  Fru
+ it\nGrains: Brownie Bite
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-breakfast@school-meal-sync
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\,
+  Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-11-lunch@school-meal-sync
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🍽️ Lunch: Foster Farms Chicken Corn Dog on a Stick
+DESCRIPTION:Lunch: Foster Farms Chicken Corn Dog on a Stick\nVegetables: Or
+ e-Ida Tater Tots\, Garden Fresh Salad\nFruit: Mixed Fruit\, Assorted Seaso
+ nal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-breakfast@school-meal-sync
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Bo
+ x\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-14-lunch@school-meal-sync
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🍔 Lunch: Cheese Please Burger
+DESCRIPTION:Lunch: Cheese Please Burger\nVegetables: Bush's Baked Vegetaria
+ n Beans\, Breaded Onion Rings\nFruit: Cinnamon Applesauce Cup\, Assorted S
+ easonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-breakfast@school-meal-sync
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juic
+ e Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-15-lunch@school-meal-sync
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🌮 Lunch: Cheesy Beef Nachos
+DESCRIPTION:Lunch: Cheesy Beef Nachos\nVegetables: Red Gold Salsa Cup\, Tac
+ o Fiesta Beans\, Golden Corn Kernels\nFruit: Strawberry Cup\, Assorted Sea
+ sonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-breakfast@school-meal-sync
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice 
+ Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-16-lunch@school-meal-sync
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🍽️ Lunch: The Maxx Cheese Sticks
+DESCRIPTION:Lunch: The Maxx Cheese Sticks\nVegetables: Steamed Broccoli\, R
+ ed Gold Marinara Sauce Dipping Cup\nFruit: Sidekicks Orange Cream Frozen J
+ uice Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-breakfast@school-meal-sync
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-17-lunch@school-meal-sync
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🍽️ Lunch: Popcorn Chicken
+DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Garden Fresh 
+ Salad\nFruit: Sweet Red Apple Slices\, Sidhu Farms Raspberries\nGrains: Tr
+ iple Chocolate Filled Cookie
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-breakfast@school-meal-sync
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\,
+  Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-18-lunch@school-meal-sync
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🍔 Lunch: Mini Twin Cheeseburgers
+DESCRIPTION:Lunch: Mini Twin Cheeseburgers\nVegetables: Ore-Ida Tater Tots\
+ , Garden Fresh Salad\nFruit: Diced Peaches\, Assorted Seasonal Fresh  Frui
+ t
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-breakfast@school-meal-sync
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Bo
+ x\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-21-lunch@school-meal-sync
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🌭 Lunch: Jennie-O Turkey Hot Dog on WG Bun
+DESCRIPTION:Lunch: Jennie-O Turkey Hot Dog on WG Bun\nVegetables: Ore-Ida T
+ ater Tots\, Bush's Baked Vegetarian Beans\nFruit: Watermelon Applesauce Cu
+ p\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-breakfast@school-meal-sync
+DTSTAMP:20260922T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juic
+ e Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-22-lunch@school-meal-sync
+DTSTAMP:20260922T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:🫓 Lunch: Birria and Cheese Pupusa or Bean and Cheese Pupusa
+DESCRIPTION:Lunch: Birria and Cheese Pupusa or Bean and Cheese Pupusa\nVege
+ tables: Red Gold Salsa Cup\, Bush's Taco Fiesta Black Beans\, Golden Corn 
+ Kernels\nFruit: Diced Peaches Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-breakfast@school-meal-sync
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice 
+ Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-23-lunch@school-meal-sync
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🍕 Lunch: Cheese Stuffed Crust Pizza or Pepperoni Stuffed Crust P
+ izza
+DESCRIPTION:Lunch: Cheese Stuffed Crust Pizza or Pepperoni Stuffed Crust Pi
+ zza\nVegetables: Steamed Broccoli\, Red Gold Marinara Sauce Dipping Cup\nF
+ ruit: Sidekicks Strawberry Mango Frozen Juice Cup\, Assorted Seasonal Fres
+ h  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-breakfast@school-meal-sync
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-24-lunch@school-meal-sync
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🍗 Lunch: Crispy Chicken Nuggets
+DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Garden
+  Fresh Salad\nFruit: Sweet Red Apple Slices\, Rowley & Hawkins Farms Slice
+ d Peaches\nGrains: Brownie Bite
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-breakfast@school-meal-sync
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\,
+  Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-25-lunch@school-meal-sync
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🍽️ Lunch: Foster Farms Chicken Corn Dog on a Stick
+DESCRIPTION:Lunch: Foster Farms Chicken Corn Dog on a Stick\nVegetables: Or
+ e-Ida Tater Tots\, Garden Fresh Salad\nFruit: Diced Pears\, Assorted Seaso
+ nal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-breakfast@school-meal-sync
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Bo
+ x\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-28-lunch@school-meal-sync
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🍔 Lunch: Cheese Please Burger
+DESCRIPTION:Lunch: Cheese Please Burger\nVegetables: Bush's Baked Vegetaria
+ n Beans\, Breaded Onion Rings\nFruit: Cinnamon Applesauce Cup\, Assorted S
+ easonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-breakfast@school-meal-sync
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juic
+ e Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-29-lunch@school-meal-sync
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:🌮 Lunch: Cheesy Beef Nachos
+DESCRIPTION:Lunch: Cheesy Beef Nachos\nVegetables: Red Gold Salsa Cup\, Bus
+ h's Taco Fiesta Black Beans\, Golden Corn Kernels\nFruit: Diced Peaches Cu
+ p\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-breakfast@school-meal-sync
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice 
+ Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-09-30-lunch@school-meal-sync
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🍕 Lunch: Cheesy French Bread Pizza
+DESCRIPTION:Lunch: Cheesy French Bread Pizza\nVegetables: Steamed Broccoli\
+ , Red Gold Marinara Sauce Dipping Cup\nFruit: Sidekicks Blue Raspberry Lem
+ on Frozen Juice Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-breakfast@school-meal-sync
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-01-lunch@school-meal-sync
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🍽️ Lunch: Popcorn Chicken
+DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Garden Fresh 
+ Salad\nFruit: Sweet Red Apple Slices\, Assorted Seasonal Fresh  Fruit\nGra
+ ins: Triple Chocolate Filled Cookie
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-breakfast@school-meal-sync
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\,
+  Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-02-lunch@school-meal-sync
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:🍔 Lunch: Mini Twin Cheeseburgers
+DESCRIPTION:Lunch: Mini Twin Cheeseburgers\nVegetables: Ore-Ida Tater Tots\
+ , Garden Fresh Salad\nFruit: Mixed Fruit\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-breakfast@school-meal-sync
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Bo
+ x\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-05-lunch@school-meal-sync
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:🌭 Lunch: Jennie-O Turkey Hot Dog on WG Bun
+DESCRIPTION:Lunch: Jennie-O Turkey Hot Dog on WG Bun\nVegetables: Bush's Ba
+ ked Vegetarian Beans\, Ore-Ida Tater Tots\nFruit: Strawberry Applesauce Cu
+ p\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-breakfast@school-meal-sync
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juic
+ e Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-06-lunch@school-meal-sync
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:🌮 Lunch: Chicken & Cheese Crispy Taco Tuesday
+DESCRIPTION:Lunch: Chicken & Cheese Crispy Taco Tuesday\nVegetables: Red Go
+ ld Salsa Cup\, Taco Fiesta Beans\, Golden Corn Kernels\nFruit: Strawberry 
+ Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-breakfast@school-meal-sync
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🥣 Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bow
+ ls or Benefit Bars
+DESCRIPTION:Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bowl
+ s or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\, Fres
+ h Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-07-lunch@school-meal-sync
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:🍽️ Lunch: The Maxx Cheese Sticks
+DESCRIPTION:Lunch: The Maxx Cheese Sticks\nVegetables: Steamed Broccoli\, R
+ ed Gold Marinara Sauce Dipping Cup\nFruit: Sidekicks Orange Cream Frozen J
+ uice Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-breakfast@school-meal-sync
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-08-lunch@school-meal-sync
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:🍗 Lunch: Crispy Chicken Nuggets
+DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Garden
+  Fresh Salad\nFruit: Sweet Red Apple Slices\, Sidhu Farms Raspberries\nGra
+ ins: Brownie Bite
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-09-no-school@school-meal-sync
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:🏠 No School Meals: Prof. Development Day
+CATEGORIES:No School
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-breakfast@school-meal-sync
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Bo
+ x\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-12-lunch@school-meal-sync
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:🍔 Lunch: Cheese Please Burger
+DESCRIPTION:Lunch: Cheese Please Burger\nVegetables: Breaded Onion Rings\, 
+ Bush's Baked Vegetarian Beans\nFruit: Assorted Seasonal Fresh  Fruit\, Cin
+ namon Applesauce Cup
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-breakfast@school-meal-sync
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juic
+ e Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-13-lunch@school-meal-sync
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:🌮 Lunch: Cheesy Beef Nachos
+DESCRIPTION:Lunch: Cheesy Beef Nachos\nVegetables: Red Gold Salsa Cup\, Bus
+ h's Taco Fiesta Black Beans\, Golden Corn Kernels\nFruit: Strawberry Cup\,
+  Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-breakfast@school-meal-sync
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice 
+ Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-14-lunch@school-meal-sync
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:🍕 Lunch: Cheese Stuffed Crust Pizza or Pepperoni Stuffed Crust P
+ izza
+DESCRIPTION:Lunch: Cheese Stuffed Crust Pizza or Pepperoni Stuffed Crust Pi
+ zza\nVegetables: Steamed Broccoli\, Red Gold Marinara Sauce Dipping Cup\nF
+ ruit: Sidekicks Strawberry Mango Frozen Juice Cup\, Assorted Seasonal Fres
+ h  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-breakfast@school-meal-sync
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-15-lunch@school-meal-sync
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:🍽️ Lunch: Popcorn Chicken
+DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Garden Fresh 
+ Salad\nFruit: Sweet Red Apple Slices\, Rowley & Hawkins Farms Sliced Peach
+ es\nGrains: Brownie Bite
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-breakfast@school-meal-sync
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\,
+  Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-16-lunch@school-meal-sync
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:🍽️ Lunch: Foster Farms Chicken Corn Dog on a Stick
+DESCRIPTION:Lunch: Foster Farms Chicken Corn Dog on a Stick\nVegetables: Or
+ e-Ida Tater Tots\, Garden Fresh Salad\nFruit: Diced Peaches\, Assorted Sea
+ sonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-breakfast@school-meal-sync
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Bo
+ x\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-19-lunch@school-meal-sync
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:🌭 Lunch: Jennie-O Turkey Hot Dog on WG Bun
+DESCRIPTION:Lunch: Jennie-O Turkey Hot Dog on WG Bun\nVegetables: Bush's Ba
+ ked Vegetarian Beans\, Ore-Ida Tater Tots\nFruit: Watermelon Applesauce Cu
+ p\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-breakfast@school-meal-sync
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juic
+ e Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-20-lunch@school-meal-sync
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🫓 Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa
+DESCRIPTION:Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa\nVege
+ tables: Red Gold Salsa Cup\, Bush's Taco Fiesta Black Beans\, Golden Corn 
+ Kernels\nFruit: Diced Peaches Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-breakfast@school-meal-sync
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🥣 Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bow
+ ls or Benefit Bars
+DESCRIPTION:Breakfast: Blueberry Loaf or Assorted General Mills Cereal Bowl
+ s or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\, Fres
+ h Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-21-lunch@school-meal-sync
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🍕 Lunch: Cheesy French Bread Pizza
+DESCRIPTION:Lunch: Cheesy French Bread Pizza\nVegetables: Steamed Broccoli\
+ , Red Gold Marinara Sauce Dipping Cup\nFruit: Sidekicks Blue Raspberry Lem
+ on Frozen Juice Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-breakfast@school-meal-sync
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-22-lunch@school-meal-sync
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🍗 Lunch: Crispy Chicken Nuggets
+DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Garden
+  Fresh Salad\nFruit: Sweet Red Apple Slices\, Assorted Seasonal Fresh  Fru
+ it\nGrains: Brownie Bite
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-breakfast@school-meal-sync
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\,
+  Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-23-lunch@school-meal-sync
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🍔 Lunch: Mini Twin Cheeseburgers
+DESCRIPTION:Lunch: Mini Twin Cheeseburgers\nVegetables: Ore-Ida Tater Tots\
+ , Garden Fresh Salad\nFruit: Mixed Fruit\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-breakfast@school-meal-sync
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Bo
+ x\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-26-lunch@school-meal-sync
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:🍔 Lunch: Cheese Please Burger
+DESCRIPTION:Lunch: Cheese Please Burger\nVegetables: Bush's Baked Vegetaria
+ n Beans\, Breaded Onion Rings\nFruit: Cinnamon Applesauce Cup\, Assorted S
+ easonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-breakfast@school-meal-sync
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juic
+ e Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-27-lunch@school-meal-sync
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🌮 Lunch: Cheesy Beef Nachos
+DESCRIPTION:Lunch: Cheesy Beef Nachos\nVegetables: Red Gold Salsa Cup\, Tac
+ o Fiesta Beans\, Golden Corn Kernels\nFruit: Strawberry Cup\, Assorted Sea
+ sonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-breakfast@school-meal-sync
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice 
+ Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-28-lunch@school-meal-sync
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🍕 Lunch: Cooks Choice Assorted Pizza Day
+DESCRIPTION:Lunch: Cooks Choice Assorted Pizza Day\nVegetables: Steamed Bro
+ ccoli\, Red Gold Marinara Sauce Dipping Cup\nFruit: Sidekicks Orange Cream
+  Frozen Juice Cup\, Assorted Seasonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-breakfast@school-meal-sync
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Jui
+ ce Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-29-lunch@school-meal-sync
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🍽️ Lunch: Popcorn Chicken
+DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Garden Fresh 
+ Salad\nFruit: Sweet Red Apple Slices\, Sidhu Farms Raspberries\nGrains: As
+ sorted Graham Bag
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-breakfast@school-meal-sync
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars\nFruit: Assorted Dried Fruit\, Assorted Juice Box\,
+  Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-10-30-lunch@school-meal-sync
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🍽️ Lunch: Foster Farms Chicken Corn Dog on a Stick
+DESCRIPTION:Lunch: Foster Farms Chicken Corn Dog on a Stick\nVegetables: Or
+ e-Ida Tater Tots\, Garden Fresh Salad\nFruit: Diced Peaches\, Assorted Sea
+ sonal Fresh  Fruit
+CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

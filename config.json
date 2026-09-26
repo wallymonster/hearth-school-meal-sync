@@ -1,18 +1,18 @@
 {
-  "calendar_name": "Grant Elementary Meals",
+  "calendar_name": "Sunset Meals",
   "timezone": "America/Los_Angeles",
-  "organization_id": 472,
-  "site_id": 4063,
-  "output": "docs/grant-elementary-meals.ics",
+  "organization_id": 1265,
+  "site_id": 12591,
+  "output": "docs/school-meals.ics",
 
   "meals": [
     {
-      "menu_name_contains": "Elementary Breakfast",
+      "menu_name_contains": "Breakfast Menu",
       "label": "Breakfast",
       "emoji": "🥣"
     },
     {
-      "menu_name_contains": "Elementary Lunch",
+      "menu_name_contains": "Lunch Menu",
       "label": "Lunch",
       "emoji": "🍽️"
     }
