@@ -559,6 +559,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-02-breakfast@school-meal-sync
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dri
+ ed Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-02-lunch@school-meal-sync
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -568,6 +581,19 @@ DESCRIPTION:Lunch: Crispy Chicken Sammy\nVegetables: Ore-Ida Tater Tots\, B
  ush's Baked Vegetarian Beans\nFruit: Strawberry Applesauce Cup\, Assorted 
  Seasonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-03-breakfast@school-meal-sync
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
+  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -583,6 +609,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-04-breakfast@school-meal-sync
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
+ ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-04-lunch@school-meal-sync
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -592,6 +631,19 @@ DESCRIPTION:Lunch: Cheesy Breadsticks\nVegetables: Steamed Broccoli\, Red G
  old Marinara Sauce Dipping Cup\nFruit: Sidekicks Strawberry Mango Frozen J
  uice Cup\, Assorted Seasonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-05-breakfast@school-meal-sync
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorte
+ d Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -607,6 +659,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-06-breakfast@school-meal-sync
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dried 
+ Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-06-lunch@school-meal-sync
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -619,6 +684,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-09-breakfast@school-meal-sync
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dri
+ ed Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-09-lunch@school-meal-sync
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -628,6 +706,19 @@ DESCRIPTION:Lunch: Cheese Please Burger\nVegetables: Bush's Baked Vegetaria
  n Beans\, Breaded Onion Rings\nFruit: Cinnamon Applesauce Cup\, Assorted S
  easonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-10-breakfast@school-meal-sync
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
+  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -652,6 +743,19 @@ CATEGORIES:No School
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-12-breakfast@school-meal-sync
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorte
+ d Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-12-lunch@school-meal-sync
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -661,6 +765,19 @@ DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Steamed Brocc
  oli\nFruit: Sidekicks Blue Raspberry Lemon Frozen Juice Cup\, Assorted Sea
  sonal Fresh  Fruit\nGrains: Confetti Cake Filled Cookie
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-13-breakfast@school-meal-sync
+DTSTAMP:20261113T000000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dried 
+ Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -676,6 +793,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-16-breakfast@school-meal-sync
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dri
+ ed Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-16-lunch@school-meal-sync
 DTSTAMP:20261116T000000Z
 DTSTART;VALUE=DATE:20261116
@@ -688,6 +818,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-17-breakfast@school-meal-sync
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
+  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-17-lunch@school-meal-sync
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -697,6 +840,19 @@ DESCRIPTION:Lunch: Bean and Cheese Pupusa or Birria and Cheese Pupusa\nVege
  tables: Red Gold Salsa Cup\, Taco Fiesta Beans\, Golden Corn Kernels\nFrui
  t: Strawberry Cup\, Assorted Seasonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-18-breakfast@school-meal-sync
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
+ ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -714,6 +870,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-19-breakfast@school-meal-sync
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorte
+ d Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-19-lunch@school-meal-sync
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
@@ -723,6 +892,19 @@ DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Garden
   Fresh Salad\nFruit: Sweet Red Apple Slices\, Assorted Seasonal Fresh  Fru
  it\nGrains: Triple Chocolate Filled Cookie
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-20-breakfast@school-meal-sync
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dried 
+ Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -738,6 +920,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-23-breakfast@school-meal-sync
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dri
+ ed Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-23-lunch@school-meal-sync
 DTSTAMP:20261123T000000Z
 DTSTART;VALUE=DATE:20261123
@@ -747,6 +942,19 @@ DESCRIPTION:Lunch: Cheese Please Burger\nVegetables: Breaded Onion Rings\,
  Bush's Baked Vegetarian Beans\nFruit: Strawberry Applesauce Cup\, Assorted
   Seasonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-11-24-breakfast@school-meal-sync
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
+  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -789,6 +997,19 @@ CATEGORIES:No School
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-11-30-breakfast@school-meal-sync
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dri
+ ed Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-11-30-lunch@school-meal-sync
 DTSTAMP:20261130T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -798,6 +1019,19 @@ DESCRIPTION:Lunch: Crispy Chicken Sandwich\nVegetables: Ore-Ida Tater Tots\
  , Bush's Baked Vegetarian Beans\nFruit: Cinnamon Applesauce Cup\, Assorted
   Seasonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-01-breakfast@school-meal-sync
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
+  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -813,6 +1047,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-02-breakfast@school-meal-sync
+DTSTAMP:20261202T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
+ ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-02-lunch@school-meal-sync
 DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
@@ -822,6 +1069,19 @@ DESCRIPTION:Lunch: Cheesy French Bread Pizza\nVegetables: Steamed Broccoli\
  , Red Gold Marinara Sauce Dipping Cup\nFruit: Sidekicks Blue Raspberry Lem
  on Frozen Juice Cup\, Assorted Seasonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-03-breakfast@school-meal-sync
+DTSTAMP:20261203T000000Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorte
+ d Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -837,6 +1097,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-04-breakfast@school-meal-sync
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dried 
+ Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-04-lunch@school-meal-sync
 DTSTAMP:20261204T000000Z
 DTSTART;VALUE=DATE:20261204
@@ -846,6 +1119,19 @@ DESCRIPTION:Lunch: Foster Farms Chicken Corn Dog on a Stick\nVegetables: Or
  e-Ida Tater Tots\, Garden Fresh Salad\nFruit: Mixed Fruit\, Assorted Seaso
  nal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-07-breakfast@school-meal-sync
+DTSTAMP:20261207T000000Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dri
+ ed Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -861,6 +1147,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-08-breakfast@school-meal-sync
+DTSTAMP:20261208T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
+  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-08-lunch@school-meal-sync
 DTSTAMP:20261208T000000Z
 DTSTART;VALUE=DATE:20261208
@@ -870,6 +1169,19 @@ DESCRIPTION:Lunch: Cheesy Beef Nachos\nVegetables: Red Gold Salsa Cup\, Tac
  o Fiesta Beans\, Golden Corn Kernels\nFruit: Strawberry Cup\, Assorted Sea
  sonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-09-breakfast@school-meal-sync
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
+ ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -885,6 +1197,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-10-breakfast@school-meal-sync
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorte
+ d Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-10-lunch@school-meal-sync
 DTSTAMP:20261210T000000Z
 DTSTART;VALUE=DATE:20261210
@@ -894,6 +1219,19 @@ DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Garden
   Fresh Salad\nFruit: Sweet Red Apple Slices\, Assorted Seasonal Fresh  Fru
  it\nGrains: Brownie Bite
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-11-breakfast@school-meal-sync
+DTSTAMP:20261211T000000Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dried 
+ Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -909,6 +1247,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-14-breakfast@school-meal-sync
+DTSTAMP:20261214T000000Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:🌮 Breakfast: Sunrise Breakfast Taco or Assorted General Mills Ce
+ real Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Sunrise Breakfast Taco or Assorted General Mills Cer
+ eal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dri
+ ed Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-14-lunch@school-meal-sync
 DTSTAMP:20261214T000000Z
 DTSTART;VALUE=DATE:20261214
@@ -921,6 +1272,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-15-breakfast@school-meal-sync
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
+  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
+  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-15-lunch@school-meal-sync
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
@@ -930,6 +1294,19 @@ DESCRIPTION:Lunch: Birria and Cheese Pupusa or Bean and Cheese Pupusa\nVege
  tables: Red Gold Salsa Cup\, Bush's Taco Fiesta Black Beans\, Golden Corn 
  Kernels\nFruit: Diced Peaches Cup\, Assorted Seasonal Fresh  Fruit
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-16-breakfast@school-meal-sync
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+ Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+ ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
+ ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -947,6 +1324,19 @@ CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:2026-12-17-breakfast@school-meal-sync
+DTSTAMP:20261217T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:🥣 Breakfast: Apple Cinnamon French Toast or Assorted General Mil
+ ls Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Apple Cinnamon French Toast or Assorted General Mill
+ s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorte
+ d Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-12-17-lunch@school-meal-sync
 DTSTAMP:20261217T000000Z
 DTSTART;VALUE=DATE:20261217
@@ -956,6 +1346,19 @@ DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Golden Corn K
  ernels\nFruit: Diced Pears\, Red\, White and Cool Juice Slush\nGrains: Ass
  orted Graham Bag
 CATEGORIES:Lunch
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-12-18-breakfast@school-meal-sync
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dried 
+ Fruit\, Assorted Juice Box\, Fresh Orange Slices
+CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
