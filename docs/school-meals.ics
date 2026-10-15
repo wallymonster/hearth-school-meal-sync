@@ -476,10 +476,10 @@ UID:2026-10-27-lunch@school-meal-sync
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
-SUMMARY:🌮 Lunch: Cheesy Beef Nachos
-DESCRIPTION:Lunch: Cheesy Beef Nachos\nVegetables: Red Gold Salsa Cup\, Tac
- o Fiesta Beans\, Golden Corn Kernels\nFruit: Strawberry Cup\, Assorted Sea
- sonal Fresh  Fruit
+SUMMARY:🌮 Lunch: Chicken & Cheese Crispy Taco Tuesday
+DESCRIPTION:Lunch: Chicken & Cheese Crispy Taco Tuesday\nVegetables: Red Go
+ ld Salsa Cup\, Taco Fiesta Beans\, Golden Corn Kernels\nFruit: Strawberry 
+ Cup\, Assorted Seasonal Fresh  Fruit
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1093,7 +1093,7 @@ DTEND;VALUE=DATE:20261204
 SUMMARY:🍽️ Lunch: Popcorn Chicken
 DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Garden Fresh 
  Salad\nFruit: Sweet Red Apple Slices\, Assorted Seasonal Fresh  Fruit\nGra
- ins: Confetti Cake Filled Cookie
+ ins: Fritos Corn Chips Bag
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1218,7 +1218,7 @@ DTEND;VALUE=DATE:20261211
 SUMMARY:🍗 Lunch: Crispy Chicken Nuggets
 DESCRIPTION:Lunch: Crispy Chicken Nuggets\nVegetables: Green Beans\, Garden
   Fresh Salad\nFruit: Sweet Red Apple Slices\, Assorted Seasonal Fresh  Fru
- it\nGrains: Brownie Bite
+ it\nGrains: Fritos Corn Chips Bag
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1346,7 +1346,7 @@ DTEND;VALUE=DATE:20261218
 SUMMARY:🍽️ Lunch: Popcorn Chicken
 DESCRIPTION:Lunch: Popcorn Chicken\nVegetables: Green Beans\, Golden Corn K
  ernels\nFruit: Red\, White and Cool Juice Slush\, Assorted Seasonal Fresh 
-  Fruit\nGrains: Assorted Graham Bag
+  Fruit\nGrains: Fritos Corn Chips Bag
 CATEGORIES:Lunch
 TRANSP:TRANSPARENT
 END:VEVENT
