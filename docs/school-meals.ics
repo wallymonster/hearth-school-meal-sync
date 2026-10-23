@@ -950,11 +950,11 @@ UID:2026-11-24-breakfast@school-meal-sync
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
-SUMMARY:🥣 Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mill
- s Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
-DESCRIPTION:Breakfast: Tater-iffic Tuesday Omelet or Assorted General Mills
-  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted
-  Dried Fruit\, Assorted Juice Box\, Fresh Orange Slices
+SUMMARY:🥣 Breakfast: Freshly Baked Donut or Assorted General Mills Cerea
+ l Bowls or Benefit Bars or Assorted Mini Donut Pack
+DESCRIPTION:Breakfast: Freshly Baked Donut or Assorted General Mills Cereal
+  Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted Dried 
+ Fruit\, Assorted Juice Box\, Fresh Orange Slices
 CATEGORIES:Breakfast
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1052,9 +1052,9 @@ UID:2026-12-02-breakfast@school-meal-sync
 DTSTAMP:20261202T000000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+SUMMARY:🥪 Breakfast: Chicken Biscuit Sandwich or Assorted General Mills 
  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
-DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+DESCRIPTION:Breakfast: Chicken Biscuit Sandwich or Assorted General Mills C
  ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
  ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
 CATEGORIES:Breakfast
@@ -1177,9 +1177,9 @@ UID:2026-12-09-breakfast@school-meal-sync
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+SUMMARY:🥪 Breakfast: Chicken Biscuit Sandwich or Assorted General Mills 
  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
-DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+DESCRIPTION:Breakfast: Chicken Biscuit Sandwich or Assorted General Mills C
  ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
  ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
 CATEGORIES:Breakfast
@@ -1303,9 +1303,9 @@ UID:2026-12-16-breakfast@school-meal-sync
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:🥣 Breakfast: Super Bakery Super Slice or Assorted General Mills 
+SUMMARY:🥪 Breakfast: Chicken Biscuit Sandwich or Assorted General Mills 
  Cereal Bowls or Benefit Bars or Assorted Mini Donut Pack
-DESCRIPTION:Breakfast: Super Bakery Super Slice or Assorted General Mills C
+DESCRIPTION:Breakfast: Chicken Biscuit Sandwich or Assorted General Mills C
  ereal Bowls or Benefit Bars or Assorted Mini Donut Pack\nFruit: Assorted D
  ried Fruit\, Assorted Juice Box\, Fresh Orange Slices
 CATEGORIES:Breakfast
